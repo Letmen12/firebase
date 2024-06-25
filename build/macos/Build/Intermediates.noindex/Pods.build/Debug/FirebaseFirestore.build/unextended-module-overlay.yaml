@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/FirebaseFirestore/FirebaseFirestore.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/FirebaseFirestore/FirebaseFirestore.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "FirebaseFirestore-Swift.h",
+      'external-contents': "/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/unextended-interface-header.h",
+    }]
+    }]
+}

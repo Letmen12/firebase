@@ -1,0 +1,18 @@
+"/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/SwiftHeaderWorkaround.swift":
+  dependencies: "/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.d"
+  swift-dependencies: "/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.swiftdeps"
+  diagnostics: "/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.dia"
+  object: "/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.o"
+  const-values: "/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.swiftconstvalues"
+"/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/Timestamp+Codable.swift":
+  diagnostics: "/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.dia"
+  swift-dependencies: "/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.swiftdeps"
+  dependencies: "/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.d"
+  const-values: "/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.swiftconstvalues"
+  object: "/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.o"
+"/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/TimestampDecodingStrategy.swift":
+  object: "/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.o"
+  const-values: "/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.swiftconstvalues"
+  dependencies: "/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.d"
+  swift-dependencies: "/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.swiftdeps"
+  diagnostics: "/Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.dia"

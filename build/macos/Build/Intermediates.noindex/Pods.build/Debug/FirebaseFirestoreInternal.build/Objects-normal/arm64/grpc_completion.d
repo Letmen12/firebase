@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/remote/grpc_completion.cc \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/remote/grpc_completion.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/async_queue.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/executor.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/status_fwd.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-C++/grpcpp.framework/Headers/support/byte_buffer.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/byte_buffer.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/port_platform.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/impl/grpc_types.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/impl/channel_arg_names.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/impl/compression_types.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/slice.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/impl/slice_type.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/sync.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/time.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/sync_generic.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/atm.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/atm_gcc_atomic.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/sync_posix.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/status.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/slice_buffer.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/grpc.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/impl/connectivity_state.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/impl/propagation_bits.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/log.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-C++/grpcpp.framework/Headers/impl/serialization_traits.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-C++/grpcpp.framework/Headers/support/config.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-C++/grpcpp.framework/Headers/support/slice.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-C++/grpcpp.framework/Headers/support/string_ref.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-C++/grpcpp.framework/Headers/support/status.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-C++/grpcpp.framework/Headers/impl/status.h \
+  /Users/user/flutter-codelabs/firebase-get-to-know-flutter/firebase/build/macos/Build/Products/Debug/gRPC-C++/grpcpp.framework/Headers/support/status_code_enum.h
